@@ -64,16 +64,20 @@ Taxa de comprometimento: **100%**. A vítima completou todas as etapas sem ident
 ## Evidências
 
 ### Dashboard GoPhish
-![dashboard]()
+<img width="1919" height="1020" alt="gophish" src="https://github.com/user-attachments/assets/a8ce987e-7b30-445d-94f1-7af12d98bcfe" />
+
 
 ### E-mail recebido no MailHog
-![mailhog]()
+<img width="1919" height="1016" alt="mailhog" src="https://github.com/user-attachments/assets/fa3cb06b-44bf-4a22-8358-afea7faab526" />
+
 
 ### Landing page
-![landing]()
+<img width="1919" height="945" alt="tela de login falsa" src="https://github.com/user-attachments/assets/6b05ae4e-e0b2-41aa-a45d-eb44a5e72ded" />
+
 
 ### Credenciais capturadas
-![submitted]()
+<img width="1919" height="1020" alt="gophish-resultados" src="https://github.com/user-attachments/assets/0cf2fd19-8b16-48de-9327-10f8672e0165" />
+
 
 ---
 
