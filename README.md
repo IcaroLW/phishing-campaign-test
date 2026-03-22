@@ -1,2 +1,1 @@
-# phishing-campaign-test
-Neste projeto fiz uma campanha de phishing de teste para saber o que acontece quando um atacante pega as credenciais de uma vítima.
+Ambiente de simulação de phishing montado para fins educacionais e de portfólio em cibersegurança. O projeto demonstra o ciclo completo de um ataque de phishing: infraestrutura, entrega, engajamento da vítima e captura de credenciais — sob a perspectiva de quem estuda defesa.
